@@ -82,7 +82,7 @@ Example:
 LLMs usually operate *after* sentence tokenization, not at this level.
 
 ---
-🔹 N-gram Tokenization
+## 🔹 N-gram Tokenization
 
 N-gram tokenization breaks text into continuous sequences of N items (characters or words).
 The value of N decides how many items are grouped together.

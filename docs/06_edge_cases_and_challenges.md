@@ -1,11 +1,3 @@
-# Edge Cases and Challenges
-
-Tokenizers must handle:
-- Emojis
-- Whitespace sensitivity
-- Multilingual text
-- Numbers and symbols
-
 # Edge Cases and Challenges in Tokenization
 
 Although tokenization seems straightforward, real-world text introduces

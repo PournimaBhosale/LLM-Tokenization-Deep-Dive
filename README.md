@@ -1,4 +1,3 @@
-# LLM-Tokenization-Deep-Dive
 # LLM Tokenization Deep Dive
 
 This repository documents a structured and practical understanding of

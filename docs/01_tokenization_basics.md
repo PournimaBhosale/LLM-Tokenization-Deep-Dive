@@ -25,7 +25,9 @@ Each tokenizer maintains a **vocabulary**:
 - Every token has a unique integer ID
 - Models operate on these IDs, not raw text
 
-Example:  "hello" → ["he", "llo"] → [1534, 9821]
+Example: 
+"hello" → ["he", "llo"] → [1534, 9821]
+"learning" → ["learn", "ing"] → [3452, 812]
 
 
 ---
@@ -36,3 +38,5 @@ Example:  "hello" → ["he", "llo"] → [1534, 9821]
 - Impacts inference cost 
 - Affects multilingual handling 
 - Determines robustness to unseen words
+
+Poor tokenization leads to wasted tokens and lost information.

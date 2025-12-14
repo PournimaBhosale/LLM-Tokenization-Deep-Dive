@@ -1,6 +1,6 @@
-<img width="801" height="400" alt="image" src="https://github.com/user-attachments/assets/e7e6374a-a0c1-46c0-a429-c32c13d5c573" />
-
 # 🧠 Types of Tokenization
+
+<img width="801" height="400" alt="image" src="https://github.com/user-attachments/assets/e7e6374a-a0c1-46c0-a429-c32c13d5c573" />
 
 Tokenization is the process of breaking text into smaller units called
 tokens. Depending on the level of granularity, tokenization can be

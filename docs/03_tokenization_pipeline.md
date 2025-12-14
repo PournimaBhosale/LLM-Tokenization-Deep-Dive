@@ -1,4 +1,4 @@
-## Tokenization Pipeline
+# Tokenization Pipeline
 
 Tokenization in modern NLP and Large Language Models (LLMs) is not a
 single step. It is a **pipeline of transformations** that converts raw,

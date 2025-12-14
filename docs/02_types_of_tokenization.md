@@ -1,3 +1,5 @@
+<img width="801" height="400" alt="image" src="https://github.com/user-attachments/assets/e7e6374a-a0c1-46c0-a429-c32c13d5c573" />
+
 # 🧠 Types of Tokenization
 
 Tokenization is the process of breaking text into smaller units called
@@ -97,26 +99,25 @@ Example sentence
 Each single word is a token.
 ["I", "love", "AI"]
 
-👉 This is the simplest form of tokenization.
+This is the simplest form of tokenization.
 
 2️⃣ Bigram Tokenization (N = 2)
 
 Each token contains two consecutive words.
 ["I love", "love AI"]
 
-👉 Helps capture basic word relationships.
+Helps capture basic word relationships.
 
 3️⃣ Trigram Tokenization (N = 3)
 
 Each token contains three consecutive words.
 ["I love AI"]
 
-👉 Captures short phrases, but data becomes sparse.
+Captures short phrases, but data becomes sparse.
 
 
-🎯 Key Idea (Easy Summary)
-
-Smaller N → simpler, more general
-Larger N → more context, but harder to manage
-N-grams are foundational NLP concepts
-Modern LLMs prefer subword tokenization instead of large N-grams
+Key Idea (Easy Summary)
+- Smaller **N** → simpler and more general
+- Larger **N** → more context but harder to manage
+- N-grams are **foundational NLP concepts**
+- Modern LLMs prefer **subword tokenization** over large N-grams

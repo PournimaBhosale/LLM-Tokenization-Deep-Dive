@@ -15,11 +15,11 @@ A token can represent:
 - Part of a word (`play`, `##ing`)
 - A character
 - A byte
-- A symbol or emoji 😊
+- A symbol or emoji 
 
 ---
 
-## 🔢 Vocabulary and Token IDs
+## 🔹 Vocabulary and Token IDs
 
 Each tokenizer maintains a **vocabulary**:
 - Every token has a unique integer ID
@@ -30,9 +30,9 @@ Example:  "hello" → ["he", "llo"] → [1534, 9821]
 
 ---
 
-## ⚠️ Why Tokenization Matters
+## 🔹  Why Tokenization Matters
 
 - Controls context window usage
-- Impacts inference cost 💰
-- Affects multilingual handling 🌍
+- Impacts inference cost 
+- Affects multilingual handling 
 - Determines robustness to unseen words
